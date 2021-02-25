@@ -1,8 +1,12 @@
 # Line-Bot-Unit-Converter
 
+![QR_Code](https://github.com/Ronaldzzzzz/Line-Bot-Unit-Converter/blob/main/image/QR%20code.jpg)
+
 This is a Line messaging bot that helps you to convert units.
 You can scan the QR code and add the bot as a friend, or add the bot into a group.
 Simply type number, space, and unit then the bot will convert to another unit.
+
+![screenshot](https://github.com/Ronaldzzzzz/Line-Bot-Unit-Converter/blob/main/image/screenshot.jpg)
 
 ## Usage
 

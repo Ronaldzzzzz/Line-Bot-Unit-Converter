@@ -205,6 +205,10 @@ function doPost(e) {
             }
 
             if(messageText.indexOf(" ") === -1){
+              if (res.length === 1 && /^[0-9A-Za-z]+$/.test(res[0])){
+                replyMsg(replyToken, _hint, channelToken);
+                break
+              }
               break;
             }
             else if (res.length != 2 || isNaN(res[0]) || !/^[A-Za-z]+$/.test(res[1]) ){

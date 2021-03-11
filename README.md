@@ -2,9 +2,13 @@
 
 ![QR_Code](https://github.com/Ronaldzzzzz/Line-Bot-Unit-Converter/blob/main/image/QR%20code.jpg)
 
+[Add to friend](https://line.me/ti/p/@086cghzv)
+
 This is a Line messaging bot that helps you to convert units.
-You can scan the QR code and add the bot as a friend, or add the bot into a group.
+You can scan the QR code or click the link and add the bot as a friend, or add the bot into a group.
 Simply type number, space, and unit then the bot will convert to another unit.
+Currently support `Chinese`, `Japanese`, and `English`.
+If you use in a group, the bot will be the `English` version.
 
 ![screenshot](https://github.com/Ronaldzzzzz/Line-Bot-Unit-Converter/blob/main/image/screenshot.jpg)
 
@@ -16,7 +20,7 @@ Simply type number, space, and unit then the bot will convert to another unit.
   
   Description of this bot.
 
-* `!unit`
+* `!units`
   
   List all the supported units.
 
@@ -37,19 +41,20 @@ Currently the bot support the following units:
 
 * 公尺(m)
 * 公分(cm)
+* 碼(yd)
 * 英呎(ft)
 * 英吋(inch)
-* 英里(mi)
 * 公里(km)
+* 英里(mi)
 * 磅(lb)
 * 公斤(kg)
 * 公克(g)
 * 盎司(oz)
+* 華氏(°f)
+* 攝氏(°c)
 * 公升(l)
 * 毫升(ml)
 * 加侖(gal)
-* 華式(f)
-* 攝氏(c)
 
 ## Reference
 
